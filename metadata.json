@@ -1,0 +1,5 @@
+{
+  "name": "Knowledge Graph + LLM Hybrid Q&A",
+  "description": "A question-answering system that combines the DBpedia knowledge graph with the Gemini LLM. The user's query is first converted into a graph query to fetch facts, which are then used by the LLM to generate a factually-grounded, natural language answer, aiming to reduce hallucinations.",
+  "requestFramePermissions": []
+}
